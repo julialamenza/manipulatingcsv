@@ -1,6 +1,7 @@
 # Overview
 
-Choose whatever language you're most comfortable with to solve these problems.
+Theses tasks are tasks to manipulate csv files and for this I  choose to use Pandas.
+Pandas is a software library written for the Python programming language for data manipulation and analysis
 
 # Exercise
 
